@@ -1,4 +1,4 @@
-# NASCON Event Management System
+#NEMS (NASCON Event Management System)
 
 ## Overview
 
